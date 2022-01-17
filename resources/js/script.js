@@ -7,3 +7,14 @@ window.onload = function() {
         console.log(count)
     }
 }
+
+window.onload = function() {
+    let canvas = document.getElementById("canvas");
+    let context = canvas.getContext("2d");
+    let x = 300;
+    let y = 350;
+
+    context.arc(x, y, 50, 0, 2*Math.PI);
+    context.fillStyle="red";
+    context.fill();
+}
