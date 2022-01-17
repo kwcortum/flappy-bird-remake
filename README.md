@@ -1,0 +1,1 @@
+This is my first time making a game using my HTML, CSS, and JavaScript skills. I am doing this with guidance from Sololearn's Web Game's certificate. I am really excited to tackle incorporating JavaScript into my HTML and CSS desgins.
