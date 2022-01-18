@@ -17,6 +17,9 @@ window.onload = function() {
         console.log(count);
         y -= 25;
         console.log(y);
+        if (y <= -50) {
+            y = 450;
+          }
         context.clearRect(0, 0, 600, 400);
 
         context.beginPath();
